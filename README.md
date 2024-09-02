@@ -1,1 +1,0 @@
-# Smart Online Shopping System
