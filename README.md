@@ -1,1 +1,1 @@
-# Smart Online Shoppinf System
+# Smart Online Shopping System
