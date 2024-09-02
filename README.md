@@ -16,7 +16,7 @@ The project is focused on developing a smart online shopping system, an e-commer
 
 ## Flow chart
 
-![Flow Chart](https://github.com/SandulRenuja/Smart-Online-Shopping-System/blob/main/Untitled%20Diagram.drawio(1).png)
+![Flow Chart](https://github.com/SandulRenuja/Smart-Online-Shopping-System/blob/main/Flow%20chart.png)
 
 ## Tools and Languages
 
