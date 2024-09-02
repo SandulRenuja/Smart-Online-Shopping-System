@@ -14,6 +14,10 @@ The project is focused on developing a smart online shopping system, an e-commer
 
 - Chatbot Section: The user interacts with the chatbot by typing queries, which are captured and sent to the backend for processingta:
 
+## Flow chart
+
+![Flow Chart](https://github.com/SandulRenuja/Smart-Online-Shopping-System/blob/main/Untitled%20Diagram.drawio(1).png)
+
 ## Tools and Languages
 
 ###  Programming Languages
