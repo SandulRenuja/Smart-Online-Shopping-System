@@ -16,7 +16,8 @@ The project is focused on developing a smart online shopping system, an e-commer
 
 ## Flow chart
 
-![Uploading Untitled Diagram.drawio.png…]()
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/c0ac9af1-1179-48af-ba75-57bb1098476d)
+
 
 
 ## Tools and Languages
