@@ -16,7 +16,7 @@ The project is focused on developing a smart online shopping system, an e-commer
 
 ## Flow chart
 
-![Flow Chart]()
+![Flow Chart](Flow diagramme.png)
 
 ## Tools and Languages
 
