@@ -1,0 +1,7 @@
+Flask
+Flask-WTF
+Werkzeug
+Jinja2
+MarkupSafe
+itsdangerous
+WTForms
